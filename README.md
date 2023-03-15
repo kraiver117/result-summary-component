@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/kraiver117/result-summary-component](https://github.com/kraiver117/result-summary-component)
-- Live Site URL: [https://github.com/kraiver117/result-summary-component](https://github.com/kraiver117/result-summary-component)
+- Live Site URL: [https://kraiver117.github.io/result-summary-component/](https://kraiver117.github.io/result-summary-component/)
 
 ## My process
 
